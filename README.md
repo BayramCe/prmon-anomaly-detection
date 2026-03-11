@@ -1,4 +1,4 @@
-# prmon Anomaly Detection — ATLAS SPOT GSoC 2026
+# prmon Anomaly Detection — ATLAS GSoC 2026
 
 Warm-up exercise for the Automated Software Performance Monitoring for the ATLAS experiment project.
 
