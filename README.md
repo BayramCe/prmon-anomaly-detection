@@ -106,6 +106,7 @@ Isolation Forest (6 features): precision=0.950  recall=0.801  f1=0.869
 Z-score has perfect precision but recall of 0.139 — it only catches the largest spikes and completely misses the gradual ramp and the IO burst. Isolation Forest catches most anomaly types at the cost of 7 false positives.
 
 ![Dataset 2](anomaly_detection2.png)
+![Dataset 2](zscore_only.png)
 
 ---
 
